@@ -80,5 +80,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 Feel free to reach out for any issues or suggestions via the **Issues** tab on the GitHub repository.
-
-![image](https://github.com/user-attachments/assets/4755b636-70b8-423e-9bd3-7dd5ba320cb7)
