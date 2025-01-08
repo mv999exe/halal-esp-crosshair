@@ -61,7 +61,8 @@ The application is tailored to improve your **headshot accuracy** by visualizing
 
 ## Screenshots
 - **Application Interface**: 
-  ![image](https://github.com/user-attachments/assets/64bab3f5-005e-44de-b3d1-00e25813665a)
+ ![Screenshot 2025-01-08 152411](https://github.com/user-attachments/assets/0164873c-3686-4fd3-81b5-7d146b9aca50)
+
 
 - **In-Game Crosshair**:
   ![image](https://github.com/user-attachments/assets/2fd0873a-0a60-4dfe-8645-56be64011e84)
